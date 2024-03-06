@@ -75,9 +75,9 @@ body{
     position: relative;
     color: var(--yellow);
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 4px;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 40px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration: none;
     cursor: default;
